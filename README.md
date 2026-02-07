@@ -8,9 +8,9 @@
 * 🤔 I’m looking for help with creating websites
 * 💬 Ask me about my life
 * 📫 How to reach me: dc
-* ❤️ I love aya hehe
+* ❤️ I love dogs and cats
 * ⚡ Fun fact: bading
 
 <img src="">
 
-<img src="[https://i.pinimg.com/736x/aa/02/a6/aa02a613e54da7f3e62c4d9f27903d56.jpg](https://i.pinimg.com/736x/aa/02/a6/aa02a613e54da7f3e62c4d9f27903d56.jpg)](https://i.pinimg.com/736x/aa/02/a6/aa02a613e54da7f3e62c4d9f27903d56.jpg)">
+<img src="[[https://i.pinimg.com/736x/aa/02/a6/aa02a613e54da7f3e62c4d9f27903d56.jpg](https://i.pinimg.com/736x/aa/02/a6/aa02a613e54da7f3e62c4d9f27903d56.jpg)](https://i.pinimg.com/736x/aa/02/a6/aa02a613e54da7f3e62c4d9f27903d56.jpg)](https://i.pinimg.com/736x/aa/02/a6/aa02a613e54da7f3e62c4d9f27903d56.jpg)">
