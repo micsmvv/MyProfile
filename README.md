@@ -1,5 +1,6 @@
 <h1 align="center"> Welcome to my profile </h1>
 
+<div align="center"> 
 * 👂 My name is Micaella Viernesto
 * 👩 Pronouns: she/her
 * 🔭 I’m currently working on Github Project
